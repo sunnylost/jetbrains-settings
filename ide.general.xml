@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmOpenNewProject2" value="0" />
+    <option name="confirmExit" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
