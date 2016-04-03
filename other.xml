@@ -118,6 +118,11 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="5.10.0" last-modified="1459711514000" />
+    </local-interpreter>
+  </component>
   <component name="SvgViewer.Settings">
     <option name="PLUGIN_ENABLED" value="false" />
   </component>
