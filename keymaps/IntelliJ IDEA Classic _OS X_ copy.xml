@@ -1,4 +1,11 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
