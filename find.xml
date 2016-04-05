@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/Users/sunnylost/Documents/project/github/ToyCodeFactory/sticky/sticky.js'" />
-    <option name="defaultScopeName" value="File '/Users/sunnylost/Documents/project/github/ToyCodeFactory/sticky/sticky.js'" />
+    <option name="customScope" value="File '/Users/sunnylost/Documents/project/mine/java/algorithms/BinarySearch.java'" />
+    <option name="defaultScopeName" value="File '/Users/sunnylost/Documents/project/mine/java/algorithms/BinarySearch.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/sunnylost/Documents/project/github/ToyCodeFactory/sticky/sticky.js'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/sunnylost/Documents/project/mine/java/algorithms/BinarySearch.java'" />
   </component>
 </application>
