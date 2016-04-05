@@ -1,5 +1,10 @@
 <code_scheme name="Default (1)">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <JSCodeStyleSettings>
+    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
