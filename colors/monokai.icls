@@ -1,7 +1,8 @@
 <scheme name="Monokai-Sublime" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
@@ -702,6 +703,42 @@
       <value>
         <option name="FOREGROUND" value="e97050" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="2e7a3b" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="2e7a3b" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="2e7a3b" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="2e7a3b" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_5">
+      <value>
+        <option name="FOREGROUND" value="2e7a3b" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_6">
+      <value>
+        <option name="FOREGROUND" value="2e7a3b" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
