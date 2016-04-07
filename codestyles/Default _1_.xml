@@ -10,6 +10,7 @@
   </XML>
   <codeStyleSettings language="JavaScript">
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
