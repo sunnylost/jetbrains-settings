@@ -741,6 +741,14 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_LINK_TEXT">
+      <value>
+        <option name="FOREGROUND" value="f7c13b" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="f7e034" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="252621" />
