@@ -1,5 +1,8 @@
 <code_scheme name="Default (1)">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <CssCodeStyleSettings>
+    <option name="VALUE_ALIGNMENT" value="1" />
+  </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
@@ -22,12 +25,24 @@
     <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
   </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
