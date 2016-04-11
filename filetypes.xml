@@ -4,10 +4,11 @@
     <extensionMap>
       <mapping ext="tmpl" type="HTML" />
       <mapping ext="est" type="JavaScript" />
+      <mapping pattern="test123" type="PLAIN_TEXT" />
       <mapping pattern="lsn" type="PLAIN_TEXT" />
-      <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
