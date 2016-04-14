@@ -52,6 +52,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="12e0d9" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffc8c8" />
