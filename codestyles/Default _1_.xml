@@ -1,4 +1,6 @@
 <code_scheme name="Default (1)">
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <CssCodeStyleSettings>
     <option name="VALUE_ALIGNMENT" value="1" />
