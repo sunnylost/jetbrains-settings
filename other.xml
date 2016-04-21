@@ -126,6 +126,7 @@
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="5.10.1" last-modified="1461038997000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="SvgViewer.Settings">
