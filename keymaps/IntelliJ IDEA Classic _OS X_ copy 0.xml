@@ -1,5 +1,0 @@
-<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy 0" parent="Mac OS X">
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
-</keymap>
