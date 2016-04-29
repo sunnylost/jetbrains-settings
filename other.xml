@@ -103,6 +103,11 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
   <component name="DuplocatorSettings">
     <option name="SELECTED_PROFILES">
       <set>
@@ -120,7 +125,8 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="5.10.0" last-modified="1459711514000" />
+      <version-cache version="5.11.0" last-modified="1461575697000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="SvgViewer.Settings">
