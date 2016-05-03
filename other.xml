@@ -108,15 +108,6 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
-  <component name="DuplocatorSettings">
-    <option name="SELECTED_PROFILES">
-      <set>
-        <option value="CSS" />
-        <option value="JavaScript" />
-      </set>
-    </option>
-    <option name="LAST_SELECTED_LANGUAGE" value="JavaScript" />
-  </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="" />
     <option name="ITN_PASSWORD_CRYPT" value="" />
