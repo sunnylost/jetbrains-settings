@@ -116,7 +116,7 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="6.1.0" last-modified="1462501775000" />
+      <version-cache version="6.0.0" last-modified="1461776534000" />
       <npm-package value="/usr/local/lib/node_modules/npm" />
     </local-interpreter>
   </component>
