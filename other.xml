@@ -108,15 +108,6 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
-  <component name="DuplocatorSettings">
-    <option name="SELECTED_PROFILES">
-      <set>
-        <option value="CSS" />
-        <option value="JavaScript" />
-      </set>
-    </option>
-    <option name="LAST_SELECTED_LANGUAGE" value="JavaScript" />
-  </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="" />
     <option name="ITN_PASSWORD_CRYPT" value="" />
@@ -125,7 +116,7 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="5.11.0" last-modified="1461575697000" />
+      <version-cache version="6.0.0" last-modified="1461776534000" />
       <npm-package value="/usr/local/lib/node_modules/npm" />
     </local-interpreter>
   </component>
