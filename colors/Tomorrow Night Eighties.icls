@@ -1115,9 +1115,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE">
-      <value />
-    </option>
     <option name="JS.NUMBER">
       <value>
         <option name="FOREGROUND" value="f99157" />
@@ -1286,9 +1283,6 @@
         <option name="BACKGROUND" value="515151" />
       </value>
     </option>
-    <option name="MESSAGE_ARGUMENT">
-      <value />
-    </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6699cc" />
@@ -1339,9 +1333,6 @@
       <value>
         <option name="FOREGROUND" value="f99157" />
       </value>
-    </option>
-    <option name="OC.PROPERTY">
-      <value />
     </option>
     <option name="OC.SELFSUPERTHIS">
       <value>
