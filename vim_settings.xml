@@ -3,10 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1463542755479">
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1463543887791">
         <mark key="[" line="787" column="0" />
         <mark key="]" line="787" column="0" />
         <mark key="." line="787" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/views/foot_simple.html" timestamp="1463544547774">
+        <mark key="[" line="52" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/project/mine/node/stream.js" timestamp="1463508066423">
         <mark key="'" line="4" column="0" />
