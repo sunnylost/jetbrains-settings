@@ -67,10 +67,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/project/mine/web/1.json" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="&quot;" type="4">
         <text>PC: 下掉 0</text>
       </register>
-      <register name="&quot;" type="4">
+      <register name="-" type="4">
+        <text>PC: 下掉 0</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx2YXJcPg==</text>
+      </register>
+      <register name="1" type="4">
         <text>PC: 下掉 0</text>
       </register>
       <register name="2" type="4">
@@ -97,11 +103,8 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgcmV0dXJuRGF0YQo=</text>
       </register>
-      <register name="-" type="4">
-        <text>PC: 下掉 0</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDx2YXJcPg==</text>
+      <register name=":" type="4">
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -116,7 +119,9 @@
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
