@@ -3,15 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wx/sign.js" timestamp="1463556109871" />
       <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1463543887791">
         <mark key="[" line="787" column="0" />
         <mark key="]" line="787" column="0" />
         <mark key="." line="787" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/snake/package/weixin/helper/MemWeixinJs.class.php" timestamp="1463556056517" />
       <file name="$USER_HOME$/Documents/work/master/apps/wap/views/head_simple.html" timestamp="1463550095890" />
       <file name="$USER_HOME$/Documents/work/master/apps/wap/views/foot_simple.html" timestamp="1463544547774">
         <mark key="[" line="52" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/work/snake/modules/weixin/Weixin_wap_share_sign.class.php" timestamp="1463555917671" />
       <file name="$USER_HOME$/Documents/project/mine/node/stream.js" timestamp="1463508066423">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="11" column="16" />
@@ -19,6 +22,7 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/controller/aj.js" timestamp="1463555862898" />
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/Documents/project/mine/node/stream.js" />
