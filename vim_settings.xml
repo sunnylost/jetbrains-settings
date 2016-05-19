@@ -10,11 +10,6 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463627822890">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/git/hornbill/src/server/router.js" timestamp="1463626448987">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
