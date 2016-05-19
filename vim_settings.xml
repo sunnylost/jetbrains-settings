@@ -19,9 +19,6 @@
         <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/hapi/lib/server.js" timestamp="1463642997779" />
-      <file name="/a.dummy" timestamp="1463643009408">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/shop/shop_rating.html" timestamp="1463563062985">
         <mark key="[" line="243" column="36" />
         <mark key="]" line="243" column="19" />
@@ -62,7 +59,9 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_tools_appweixin/index.tpl" timestamp="1463647542652" />
       <file name="$USER_HOME$/Documents/project/github/hapi/lib/base64.js" timestamp="1463632249587" />
+      <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_tools_appweixin/index.js" timestamp="1463648510394" />
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/Documents/project/mine/node/stream.js" />
