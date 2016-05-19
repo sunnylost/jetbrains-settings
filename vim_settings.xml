@@ -61,7 +61,9 @@
       </file>
       <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_tools_appweixin/index.tpl" timestamp="1463647542652" />
       <file name="$USER_HOME$/Documents/project/github/hapi/lib/base64.js" timestamp="1463632249587" />
-      <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_tools_appweixin/index.js" timestamp="1463650973460" />
+      <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_tools_appweixin/index.js" timestamp="1463652522921">
+        <mark key="[" line="161" column="46" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/Documents/project/mine/node/stream.js" />
