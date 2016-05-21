@@ -10,12 +10,10 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463646251459">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/self-learning/cs/overview.md" timestamp="1463795314046">
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
+      <file name="$USER_HOME$/Documents/project/github/self-learning/cs/overview.md" timestamp="1463799371095">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/git/hornbill/src/server/router.js" timestamp="1463626448987">
         <mark key="[" line="146" column="0" />
@@ -39,6 +37,11 @@
         <mark key="]" line="32" column="22" />
         <mark key="." line="32" column="22" />
         <mark key="^" line="32" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/index.js" timestamp="1463800100373">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/nest/server/index.js" timestamp="1463624985678">
         <mark key="[" line="10" column="8" />
@@ -78,41 +81,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/project/mine/web/1.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>。</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
-      <register name="1" type="4">
-        <text>。</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>PC: 下掉 0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmICggcHJvY2Vzcy5wbGF0Zm9ybSAhPSAnZGFyd2luJyApIHsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdCAgICAgICAgICAgICAgPSBkYXRhLmxpc3QsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZAo=</text>
-      </register>
-      <register name="7" type="4">
+      <register name="5" type="4">
         <text />
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>。</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmV0dXJuRGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
