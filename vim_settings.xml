@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/work/master/apps/www/model/defaultControl.js" timestamp="1463892860208" />
       <file name="$USER_HOME$/Documents/project/github/colorful/style.css" timestamp="1463813855266">
         <mark key="[" line="140" column="28" />
       </file>
@@ -12,6 +13,8 @@
         <mark key="^" line="243" column="19" />
         <mark key="." line="243" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/model/tools.js" timestamp="1463892524026" />
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/model/defaultControl.js" timestamp="1463892370148" />
       <file name="$USER_HOME$/Documents/work/master/nest/server/index.js" timestamp="1463624985678">
         <mark key="[" line="10" column="8" />
       </file>
