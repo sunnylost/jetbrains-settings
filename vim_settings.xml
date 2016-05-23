@@ -10,6 +10,11 @@
       <file name="/a.dummy" timestamp="1464011890827">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1464014938297">
+        <mark key="]" line="931" column="0" />
+        <mark key="^" line="931" column="0" />
+        <mark key="." line="931" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/shop/shop_rating.html" timestamp="1463563062985">
         <mark key="[" line="243" column="36" />
         <mark key="]" line="243" column="19" />
@@ -32,6 +37,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/www/views/doota/sale_wide.html" timestamp="1464015275354" />
       <file name="$USER_HOME$/Documents/project/github/hapi/READ.txt" timestamp="1463643609786">
         <mark key="[" line="1" column="0" />
       </file>
@@ -112,6 +118,9 @@
       <file name="$USER_HOME$/Documents/project/github/self-learning/project/nginx.md" timestamp="1463986663530">
         <mark key="[" line="9" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1464015020008">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlItem.js" timestamp="1463829400056">
         <mark key="[" line="9" column="83" />
         <mark key="]" line="9" column="0" />
@@ -139,6 +148,9 @@
         <mark key="]" line="99" column="17" />
         <mark key="." line="99" column="17" />
         <mark key="^" line="99" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/www/controller/share.js" timestamp="1464015082970">
+        <mark key="[" line="204" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/page/zulily/publish.js" timestamp="1464012265918" />
       <file name="$USER_HOME$/Documents/project/github/owl/src/util/actionTypes.js" timestamp="1463827521981">
