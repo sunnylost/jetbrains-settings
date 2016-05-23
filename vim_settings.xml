@@ -79,10 +79,13 @@
         <mark key="." line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/page/zulily/publish2.js" timestamp="1464011864371" />
-      <file name="$USER_HOME$/Documents/project/github/owl/src/model/url.js" timestamp="1463824945089">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/model/url.js" timestamp="1464023232662">
+        <mark key="a" line="9" column="30" />
+        <mark key="[" line="25" column="45" />
+        <mark key="m" line="9" column="30" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1463824409698">
         <mark key="[" line="1" column="34" />
@@ -99,10 +102,12 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1463830504915">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464024549856">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="9" column="72" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/project/mine/web/3.html" timestamp="1463562178011">
         <mark key="[" line="51" column="0" />
@@ -176,43 +181,47 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/project/mine/node/stream.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/project/mine/node/stream.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/project/mine/web/1.json" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgY3VycmVudDogW10KICAgICAgICAgICAgfSA=</text>
+        <text>headers</text>
       </register>
       <register name="-" type="4">
-        <text>initialState</text>
+        <text>headers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
+        <text>headers</text>
+      </register>
+      <register name="2" type="4">
+        <text>if ( type ) {
+            type = type.split( '/' )
+        }</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAgICAgY3VycmVudDogW10KICAgICAgICAgICAgfSA=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW5pdGlhbFN0YXRlLmN1cnJlbnQgPSBkZGluaXRpYWxTdGF0ZS5hbGwK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>initialState</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>initialState</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fSApCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGluaXRpYWxTdGF0ZVsgZmlsdGVyIF0gPSBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmlsdGVyVHlkZHBlcy5mb3JFYWNoKCBmaWx0ZXIgPT4gewo=</text>
+        <text encoding="base64">fSApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NsZWFyIScpZGQK</text>
+        <text encoding="base64">ICAgIGluaXRpYWxTdGF0ZVsgZmlsdGVyIF0gPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
