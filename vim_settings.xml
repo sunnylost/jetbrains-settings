@@ -3,26 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/master/apps/www/model/defaultControl.js" timestamp="1463976391695" />
-      <file name="$USER_HOME$/Documents/project/github/colorful/style.css" timestamp="1463813855266">
-        <mark key="[" line="140" column="28" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1464014938297">
-        <mark key="]" line="931" column="0" />
-        <mark key="^" line="931" column="0" />
-        <mark key="." line="931" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/shop/shop_rating.html" timestamp="1463563062985">
         <mark key="[" line="243" column="36" />
         <mark key="]" line="243" column="19" />
         <mark key="^" line="243" column="19" />
         <mark key="." line="243" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/model/entity.js" timestamp="1464058859105">
-        <mark key="[" line="20" column="9" />
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/model/defaultControl.js" timestamp="1464078592726">
+        <mark key="[" line="15" column="63" />
+        <mark key="]" line="15" column="62" />
+        <mark key="^" line="15" column="62" />
+        <mark key="." line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/work/master/apps/wap/model/tools.js" timestamp="1463892524026" />
-      <file name="$USER_HOME$/Documents/work/master/apps/wap/model/defaultControl.js" timestamp="1463892370148" />
       <file name="$USER_HOME$/Documents/work/master/nest/server/index.js" timestamp="1463624985678">
         <mark key="[" line="10" column="8" />
       </file>
@@ -37,6 +29,93 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/views/foot_simple.html" timestamp="1463544547774">
+        <mark key="[" line="52" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/actions/index.js" timestamp="1464058913690">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="76" column="9" />
+        <mark key="." line="76" column="9" />
+        <mark key="^" line="76" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/reducers/index.js" timestamp="1463825811044">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/circle/model/tools.js" timestamp="1464078509135">
+        <mark key="[" line="90" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/model/url.js" timestamp="1464023232662">
+        <mark key="a" line="9" column="30" />
+        <mark key="[" line="25" column="45" />
+        <mark key="m" line="9" column="30" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464024549856">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="9" column="72" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/self-learning/project/nginx.md" timestamp="1463986663530">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1464015020008">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/index.html" timestamp="1463813976894">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/containers/toolbar.js" timestamp="1463830663628">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/colorful/index.html" timestamp="1463813627691">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.css" timestamp="1463828849573">
+        <mark key="[" line="86" column="4" />
+        <mark key="]" line="99" column="17" />
+        <mark key="." line="99" column="17" />
+        <mark key="^" line="99" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/util/actionTypes.js" timestamp="1463827521981">
+        <mark key="[" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_tools_appweixin/index.js" timestamp="1463652522921">
+        <mark key="[" line="161" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlList.js" timestamp="1463828535219">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/www/model/defaultControl.js" timestamp="1463976391695" />
+      <file name="$USER_HOME$/Documents/project/github/colorful/style.css" timestamp="1463813855266">
+        <mark key="[" line="140" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1464014938297">
+        <mark key="]" line="931" column="0" />
+        <mark key="^" line="931" column="0" />
+        <mark key="." line="931" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/model/entity.js" timestamp="1464058859105">
+        <mark key="[" line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/model/tools.js" timestamp="1464078574054">
+        <mark key="[" line="130" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/doota/sale_wide.html" timestamp="1464015275354" />
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/circle/component/waterfallOptimise.js" timestamp="1464076167316" />
       <file name="$USER_HOME$/Documents/project/github/hapi/READ.txt" timestamp="1463643609786">
@@ -46,27 +125,12 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/app.js" timestamp="1463823981149">
         <mark key="[" line="56" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/work/master/apps/wap/views/foot_simple.html" timestamp="1463544547774">
-        <mark key="[" line="52" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/controller/club.js" timestamp="1464069189979" />
-      <file name="$USER_HOME$/Documents/project/github/owl/src/actions/index.js" timestamp="1464058913690">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="76" column="9" />
-        <mark key="." line="76" column="9" />
-        <mark key="^" line="76" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/icon.css" timestamp="1463815394962">
         <mark key="[" line="21" column="33" />
         <mark key="]" line="7" column="20" />
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/reducers/index.js" timestamp="1463825811044">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/page/doota/sale.js" timestamp="1464069176829" />
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/operationbar.js" timestamp="1463830625752">
@@ -82,14 +146,6 @@
         <mark key="." line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/page/zulily/publish2.js" timestamp="1464011864371" />
-      <file name="$USER_HOME$/Documents/project/github/owl/src/model/url.js" timestamp="1464023232662">
-        <mark key="a" line="9" column="30" />
-        <mark key="[" line="25" column="45" />
-        <mark key="m" line="9" column="30" />
-        <mark key="]" line="25" column="45" />
-        <mark key="^" line="25" column="45" />
-        <mark key="." line="25" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1463824409698">
         <mark key="[" line="1" column="34" />
       </file>
@@ -104,13 +160,6 @@
         <mark key="]" line="7" column="17" />
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464024549856">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="9" column="72" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/project/mine/web/3.html" timestamp="1463562178011">
         <mark key="[" line="51" column="0" />
@@ -128,27 +177,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/self-learning/project/nginx.md" timestamp="1463986663530">
-        <mark key="[" line="9" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1464015020008">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlItem.js" timestamp="1463829400056">
         <mark key="[" line="9" column="83" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="7" column="51" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/index.html" timestamp="1463813976894">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/containers/toolbar.js" timestamp="1463830663628">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464076885299">
         <mark key="[" line="555" column="36" />
@@ -156,33 +189,10 @@
         <mark key="^" line="177" column="33" />
         <mark key="." line="177" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/colorful/index.html" timestamp="1463813627691">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.css" timestamp="1463828849573">
-        <mark key="[" line="86" column="4" />
-        <mark key="]" line="99" column="17" />
-        <mark key="." line="99" column="17" />
-        <mark key="^" line="99" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/controller/share.js" timestamp="1464021036641">
         <mark key="[" line="204" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/page/zulily/publish.js" timestamp="1464012265918" />
-      <file name="$USER_HOME$/Documents/project/github/owl/src/util/actionTypes.js" timestamp="1463827521981">
-        <mark key="[" line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_tools_appweixin/index.js" timestamp="1463652522921">
-        <mark key="[" line="161" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlList.js" timestamp="1463828535219">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/Documents/project/mine/node/stream.js" />
