@@ -26,6 +26,11 @@
       <file name="$USER_HOME$/Documents/work/master/nest/server/index.js" timestamp="1463624985678">
         <mark key="[" line="10" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/containers/urlArea.js" timestamp="1463829855932">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/util.js" timestamp="1463825453920">
         <mark key="[" line="24" column="17" />
         <mark key="]" line="24" column="17" />
@@ -33,6 +38,7 @@
         <mark key="." line="24" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/doota/sale_wide.html" timestamp="1464015275354" />
+      <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/circle/component/waterfallOptimise.js" timestamp="1464076167316" />
       <file name="$USER_HOME$/Documents/project/github/hapi/READ.txt" timestamp="1463643609786">
         <mark key="[" line="1" column="0" />
       </file>
@@ -112,6 +118,16 @@
         <mark key="." line="32" column="22" />
         <mark key="^" line="32" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/index.js" timestamp="1463800100373">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfallOptimise.js" timestamp="1464076943408">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/self-learning/project/nginx.md" timestamp="1463986663530">
         <mark key="[" line="9" column="0" />
       </file>
@@ -123,6 +139,22 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="7" column="51" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/index.html" timestamp="1463813976894">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/containers/toolbar.js" timestamp="1463830663628">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464076885299">
+        <mark key="[" line="555" column="36" />
+        <mark key="]" line="177" column="33" />
+        <mark key="^" line="177" column="33" />
+        <mark key="." line="177" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/colorful/index.html" timestamp="1463813627691">
         <mark key="[" line="24" column="21" />
@@ -146,6 +178,11 @@
       <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_tools_appweixin/index.js" timestamp="1463652522921">
         <mark key="[" line="161" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlList.js" timestamp="1463828535219">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/Documents/project/mine/node/stream.js" />
@@ -162,8 +199,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>headers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE5BTUUgICAgICAgID0gJ25hbWUnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>headers</text>
@@ -171,34 +208,34 @@
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIE5BTUUgICAgICAgID0gJ25hbWUnLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICRkb2MgICAgICAgID0gJCggZG9jdW1lbnQgKSwK</text>
+      </register>
+      <register name="3" type="4">
         <text>headers</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>if ( type ) {
             type = type.split( '/' )
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAgICAgY3VycmVudDogW10KICAgICAgICAgICAgfSA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW5pdGlhbFN0YXRlLmN1cnJlbnQgPSBkZGluaXRpYWxTdGF0ZS5hbGwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>initialState</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>initialState</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">fSApCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGluaXRpYWxTdGF0ZVsgZmlsdGVyIF0gPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
