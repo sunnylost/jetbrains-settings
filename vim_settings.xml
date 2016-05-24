@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1464090953321">
+      <file name="/a.dummy" timestamp="1464112460319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/shop/shop_rating.html" timestamp="1463563062985">
@@ -60,9 +60,7 @@
         <mark key="^" line="15" column="13" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464111133329">
-        <mark key="[" line="157" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464111133329" />
       <file name="$USER_HOME$/Documents/project/github/owl/.gitignore" timestamp="1464107607302">
         <mark key="[" line="38" column="0" />
       </file>
@@ -72,6 +70,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1464015020008">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/js/proxy.js" timestamp="1464112541809" />
       <file name="$USER_HOME$/Documents/project/github/colorful/index.html" timestamp="1463813627691">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="19" />
@@ -117,6 +116,11 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/containers/detailArea.js" timestamp="1464104096873">
         <mark key="[" line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464112942886">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_others_newup/index.less" timestamp="1464090981827">
         <mark key="[" line="85" column="8" />
       </file>
@@ -146,6 +150,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="7" column="51" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/js/main.js" timestamp="1464112561703">
+        <mark key="]" line="204" column="44" />
+        <mark key="^" line="204" column="44" />
+        <mark key="." line="204" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464076885299">
         <mark key="[" line="555" column="36" />
@@ -179,40 +188,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>from</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>from</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text>concat</text>
       </register>
       <register name="3" type="4">
         <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
+        <text>e</text>
+      </register>
+      <register name="6" type="4">
+        <text>m</text>
+      </register>
+      <register name="7" type="4">
         <text />
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>)</text>
-      </register>
-      <register name="9" type="4">
-        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
