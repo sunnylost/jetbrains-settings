@@ -106,15 +106,10 @@
       <file name="$USER_HOME$/Documents/project/github/colorful/style.css" timestamp="1463813855266">
         <mark key="[" line="140" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1464014938297">
-        <mark key="]" line="931" column="0" />
-        <mark key="^" line="931" column="0" />
-        <mark key="." line="931" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/model/entity.js" timestamp="1464058859105">
         <mark key="[" line="20" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/work/master/apps/wap/model/tools.js" timestamp="1464078574054">
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/model/tools.js" timestamp="1464088274281">
         <mark key="[" line="130" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/doota/sale_wide.html" timestamp="1464015275354" />
@@ -194,6 +189,7 @@
         <mark key="[" line="204" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/page/zulily/publish.js" timestamp="1464012265918" />
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/views/welcome.html" timestamp="1464088310898" />
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/Documents/project/mine/node/stream.js" />
