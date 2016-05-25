@@ -70,7 +70,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1464015020008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/js/proxy.js" timestamp="1464112541809" />
+      <file name="$USER_HOME$/Documents/project/github/owl/js/proxy.js" timestamp="1464114721468" />
       <file name="$USER_HOME$/Documents/project/github/colorful/index.html" timestamp="1463813627691">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="19" />
@@ -116,10 +116,11 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/containers/detailArea.js" timestamp="1464104096873">
         <mark key="[" line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464112942886">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="37" />
-        <mark key="." line="33" column="37" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464114557021">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_others_newup/index.less" timestamp="1464090981827">
         <mark key="[" line="85" column="8" />
@@ -188,37 +189,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from</text>
+        <text>response</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
-        <text>from</text>
+        <text>response</text>
       </register>
       <register name="2" type="4">
-        <text>concat</text>
+        <text>from</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>concat</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
-      </register>
-      <register name="5" type="4">
         <text>e</text>
       </register>
+      <register name="5" type="4">
+        <text>l</text>
+      </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>m</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text />
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
