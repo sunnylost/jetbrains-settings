@@ -68,8 +68,11 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mine/proxy/test.js" timestamp="1464107906525">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/project/mine/proxy/test.js" timestamp="1464157623005">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/circle/model/tools.js" timestamp="1464078509135">
         <mark key="[" line="90" column="29" />
@@ -91,7 +94,7 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464151942532">
+      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464158019496">
         <mark key="[" line="59" column="19" />
         <mark key="]" line="59" column="19" />
         <mark key="." line="59" column="19" />
