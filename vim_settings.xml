@@ -136,9 +136,6 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464197738522">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/operationbar.js" timestamp="1463830625752">
         <mark key="[" line="15" column="22" />
         <mark key="]" line="15" column="22" />
@@ -213,6 +210,7 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/console.js" timestamp="1464200035050" />
       <file name="$USER_HOME$/Documents/work/master/apps/www/controller/share.js" timestamp="1464021036641">
         <mark key="[" line="204" column="42" />
       </file>
