@@ -37,6 +37,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/www/views/doota/sale_wide.html" timestamp="1464145194518" />
       <file name="$USER_HOME$/Documents/project/github/hapi/READ.txt" timestamp="1463643609786">
         <mark key="[" line="1" column="0" />
       </file>
@@ -87,12 +88,11 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464143907514">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="48" column="31" />
-        <mark key="." line="48" column="31" />
-        <mark key="^" line="48" column="31" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464147330174">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_others_newup/index.less" timestamp="1464090981827">
         <mark key="[" line="85" column="8" />
@@ -191,10 +191,12 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" />
       <jump line="7" column="16" filename="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" />
+      <jump line="35" column="43" filename="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[],
+                    i</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -203,31 +205,32 @@
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[],
+                    i</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ewogICAgICAgIHBvcnQsCiAgICAgICAgdHJhbnNmb3JtID0gKCkgPT4gewogICAgICAgIH0KICAgIH0g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text encoding="base64">ewogICAgICAgIHBvcnQsCiAgICAgICAgdHJhbnNmb3JtID0gKCkgPT4gewogICAgICAgIH0KICAgIH0g</text>
       </register>
       <register name="4" type="4">
-        <text>http</text>
+        <text />
       </register>
       <register name="5" type="4">
-        <text>response</text>
+        <text>http</text>
       </register>
       <register name="6" type="4">
-        <text>from</text>
+        <text>response</text>
       </register>
       <register name="7" type="4">
-        <text>concat</text>
+        <text>from</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>concat</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
