@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1464112460319">
+      <file name="/a.dummy" timestamp="1464151437900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/colorful/style.css" timestamp="1463813855266">
@@ -88,11 +88,11 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464147330174">
-        <mark key="[" line="30" column="43" />
-        <mark key="]" line="30" column="40" />
-        <mark key="." line="30" column="40" />
-        <mark key="^" line="30" column="40" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464151942532">
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="19" />
+        <mark key="." line="59" column="19" />
+        <mark key="^" line="59" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_others_newup/index.less" timestamp="1464090981827">
         <mark key="[" line="85" column="8" />
@@ -106,9 +106,9 @@
       <file name="$USER_HOME$/Documents/project/github/ToyCodeFactory/proxy/index.js" timestamp="1464102608877">
         <mark key="[" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464111044677">
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464151610828">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="12" column="12" />
+        <mark key="[" line="2" column="22" />
         <mark key="]" line="12" column="12" />
         <mark key="^" line="15" column="13" />
         <mark key="." line="12" column="12" />
@@ -195,8 +195,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[],
-                    i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -205,32 +204,32 @@
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>[],
                     i</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ewogICAgICAgIHBvcnQsCiAgICAgICAgdHJhbnNmb3JtID0gKCkgPT4gewogICAgICAgIH0KICAgIH0g</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text />
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>http</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>response</text>
       </register>
-      <register name="7" type="4">
-        <text>from</text>
-      </register>
-      <register name="8" type="4">
-        <text>concat</text>
-      </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>from</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
