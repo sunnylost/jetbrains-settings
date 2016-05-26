@@ -44,23 +44,19 @@
         <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/less/wap/venus/details.less" timestamp="1464230248502" />
-      <file name="$USER_HOME$/Documents/project/github/owl/src/model/url.js" timestamp="1464251760243">
+      <file name="$USER_HOME$/Documents/project/github/owl/src/model/url.js" timestamp="1464254415534">
         <mark key="[" line="42" column="18" />
         <mark key="]" line="28" column="47" />
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464197228217">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="56" column="86" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464247057103">
         <mark key="[" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/work/snake/modules/connect/Wxcall.class.php" timestamp="1464246025701" />
+      <file name="$USER_HOME$/Documents/project/github/owl/index.html" timestamp="1464255190877">
+        <mark key="[" line="21" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/colorful/index.html" timestamp="1463813627691">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="19" />
@@ -70,12 +66,12 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/util/actionTypes.js" timestamp="1464201730446">
         <mark key="[" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlList.js" timestamp="1464248254695">
-        <mark key="'" line="18" column="24" />
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="21" />
-        <mark key="^" line="17" column="21" />
-        <mark key="." line="17" column="21" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlList.js" timestamp="1464255145195">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_icon.scss" timestamp="1464247090246">
         <mark key="[" line="3" column="24" />
@@ -86,6 +82,9 @@
         <mark key="^" line="32" column="25" />
         <mark key="." line="32" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/lib/flexibletable.js" timestamp="1464255178349">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_base.scss" timestamp="1464231526741">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,11 +92,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/wap/controller/wx.js" timestamp="1464245411627" />
-      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_url.scss" timestamp="1464248966938">
-        <mark key="[" line="44" column="3" />
-        <mark key="]" line="43" column="30" />
-        <mark key="^" line="43" column="30" />
-        <mark key="." line="43" column="30" />
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_url.scss" timestamp="1464254472064">
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="53" column="9" />
+        <mark key="^" line="53" column="9" />
+        <mark key="." line="53" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/lib/courier.js" timestamp="1464233748570">
         <mark key="[" line="0" column="26" />
