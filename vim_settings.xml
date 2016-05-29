@@ -52,8 +52,11 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464493087872">
-        <mark key="[" line="36" column="37" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464496649719">
+        <mark key="[" line="54" column="58" />
+        <mark key="]" line="54" column="58" />
+        <mark key="." line="54" column="58" />
+        <mark key="^" line="54" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464491198719">
         <mark key="[" line="2" column="0" />
@@ -103,6 +106,9 @@
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_base.scss" timestamp="1464491983269">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_detail.scss" timestamp="1464496490370">
+        <mark key="[" line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_header.scss" timestamp="1464246612446">
         <mark key="[" line="0" column="0" />
@@ -219,43 +225,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHByb2Nlc3MuYXJndlsgMiBdLnN1YnN0cmluZyggMiApIA==</text>
+        <text>bodyElement</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByb2Nlc3MuYXJndlsgMiBdLnN1YnN0cmluZyggMiApIA==</text>
+        <text>bodyElement</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
+        <text>bodyElement</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IHByb2Nlc3MuYXJndlsgMiBdLnN1YnN0cmluZyggMiApIA==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyggTykK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4vanNidWlsZC9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>,
                 len       = cols.lengt</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9IiI+PC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29sdW1ucyAgICAgICAgICA6IDU7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
         history: state.
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
