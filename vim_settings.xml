@@ -55,20 +55,22 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464492461590">
+        <mark key="[" line="36" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464491198719">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/.gitignore" timestamp="1464417640658">
         <mark key="[" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/app/package.json" timestamp="1464397881138">
-        <mark key="[" line="36" column="3" />
-        <mark key="]" line="36" column="3" />
-        <mark key="." line="36" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/index.html" timestamp="1464418275987">
         <mark key="[" line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_reset.scss" timestamp="1464492086454">
+        <mark key="[" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/css/main.css" timestamp="1464491976743" />
       <file name="$USER_HOME$/Documents/project/github/colorful/index.html" timestamp="1463813627691">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="19" />
@@ -102,7 +104,7 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/lib/flexibletable.js" timestamp="1464255178349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_base.scss" timestamp="1464231526741">
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_base.scss" timestamp="1464491983269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_header.scss" timestamp="1464246612446">
@@ -111,12 +113,7 @@
       <file name="$USER_HOME$/Documents/project/github/owl/TODO.md" timestamp="1464488322596">
         <mark key="[" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_url.scss" timestamp="1464316639424">
-        <mark key="[" line="35" column="29" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-      </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_url.scss" timestamp="1464492403344" />
       <file name="$USER_HOME$/Documents/project/github/owl/js/charm.js" timestamp="1464465279729" />
       <file name="$USER_HOME$/Documents/project/github/owl/src/app.js" timestamp="1464316822094">
         <mark key="[" line="9" column="14" />
@@ -135,9 +132,6 @@
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1464491092921">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/operationbar.js" timestamp="1463830625752">
         <mark key="[" line="15" column="22" />
