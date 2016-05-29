@@ -55,8 +55,8 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464247057103">
-        <mark key="[" line="3" column="14" />
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464491198719">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/.gitignore" timestamp="1464417640658">
         <mark key="[" line="39" column="12" />
@@ -135,6 +135,9 @@
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1464491092921">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/operationbar.js" timestamp="1463830625752">
         <mark key="[" line="15" column="22" />
