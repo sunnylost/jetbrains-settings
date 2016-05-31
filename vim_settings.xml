@@ -71,12 +71,12 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464685526272">
-        <mark key="'" line="92" column="26" />
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="39" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464692218851">
+        <mark key="'" line="104" column="26" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
         <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/zepto/touch.js" timestamp="1464602853473" />
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464491198719">
@@ -134,11 +134,11 @@
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_base.scss" timestamp="1464491983269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_detail.scss" timestamp="1464668915885">
-        <mark key="[" line="80" column="11" />
-        <mark key="]" line="166" column="17" />
-        <mark key="^" line="166" column="17" />
-        <mark key="." line="166" column="17" />
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_detail.scss" timestamp="1464692503212">
+        <mark key="[" line="117" column="14" />
+        <mark key="]" line="117" column="14" />
+        <mark key="^" line="117" column="12" />
+        <mark key="." line="117" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_header.scss" timestamp="1464246612446">
         <mark key="[" line="0" column="0" />
@@ -230,11 +230,11 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464689896607">
-        <mark key="[" line="804" column="23" />
-        <mark key="]" line="797" column="12" />
-        <mark key="^" line="797" column="12" />
-        <mark key="." line="797" column="12" />
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464691268634">
+        <mark key="[" line="97" column="11" />
+        <mark key="]" line="790" column="12" />
+        <mark key="^" line="790" column="12" />
+        <mark key="." line="790" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/console.js" timestamp="1464236642907">
         <mark key="[" line="28" column="64" />
@@ -276,41 +276,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICB9</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICB9</text>
+        <text>0</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW5jb2RlU3RhdHVzVGV4dDogIXRoaXMuc3RhdGUuaXNRdWVyeUVuY29kZSA/IEVOQ09ERV9URVhUIDogRU5DT0RFX1RFWFQK</text>
       </register>
       <register name="3" type="4">
-        <text>bodyElement</text>
+        <text encoding="base64">CiAgICB9</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
+      </register>
+      <register name="5" type="4">
+        <text>bodyElement</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">IHByb2Nlc3MuYXJndlsgMiBdLnN1YnN0cmluZyggMiApIA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyggTykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4vanNidWlsZC9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>,</text>
-      </register>
-      <register name="8" type="4">
-        <text>,
-                len       = cols.lengt</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9IiI+PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
