@@ -43,7 +43,7 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/util/mimeType.js" timestamp="1464675156719" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/util/mimeType.js" timestamp="1464686082645" />
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.1.0/core-modules/http.js" timestamp="1464537265579" />
       <file name="$USER_HOME$/Documents/project/heroku/owl-download-sunnylost/lib/versions.js" timestamp="1464531249331">
         <mark key="[" line="117" column="8" />
@@ -65,13 +65,13 @@
         <mark key="[" line="0" column="63" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" timestamp="1464663290739" />
-      <file name="$USER_HOME$/Documents/project/github/owl/src/model/url.js" timestamp="1464619469278">
-        <mark key="[" line="37" column="35" />
-        <mark key="]" line="37" column="35" />
-        <mark key="^" line="37" column="35" />
-        <mark key="." line="37" column="35" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/model/url.js" timestamp="1464685567783">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464681110562">
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464685526272">
         <mark key="'" line="92" column="26" />
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="39" />
@@ -183,10 +183,6 @@
         <mark key="[" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/containers/detailArea.js" timestamp="1464503984871" />
-      <file name="$USER_HOME$/Documents/project/github/owl/src/server/proxy.js" timestamp="1464534690008">
-        <mark key="[" line="26" column="52" />
-        <mark key="^" line="19" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/reducers/urls.js" timestamp="1464506746733" />
       <file name="$USER_HOME$/Documents/project/github/owl/src/lib/sharingan.js" timestamp="1464196755515">
         <mark key="[" line="12" column="26" />
@@ -234,7 +230,7 @@
         <mark key="^" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464678360877">
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464686366506">
         <mark key="[" line="783" column="34" />
         <mark key="]" line="820" column="37" />
         <mark key="^" line="820" column="37" />
