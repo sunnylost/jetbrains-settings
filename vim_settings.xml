@@ -10,38 +10,8 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/infobar.js" timestamp="1464503363789">
         <mark key="[" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/work/master/apps/www/views/shop/shop_rating.html" timestamp="1463563062985">
-        <mark key="[" line="243" column="36" />
-        <mark key="]" line="243" column="19" />
-        <mark key="^" line="243" column="19" />
-        <mark key="." line="243" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/ToyCodeFactory/proxy/net.js" timestamp="1464536914115">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/master/apps/wap/model/defaultControl.js" timestamp="1464078592726">
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="15" column="62" />
-        <mark key="^" line="15" column="62" />
-        <mark key="." line="15" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/mine/ws/index.js" timestamp="1464196120301">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/containers/urlArea.js" timestamp="1464506114337">
         <mark key="[" line="28" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/util.js" timestamp="1464465699655">
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="24" column="17" />
-        <mark key="^" line="24" column="17" />
-        <mark key="." line="24" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/util/mimeType.js" timestamp="1464686082645" />
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.1.0/core-modules/http.js" timestamp="1464537265579" />
@@ -54,12 +24,6 @@
         <mark key="]" line="69" column="9" />
         <mark key="." line="69" column="9" />
         <mark key="^" line="69" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/reducers/index.js" timestamp="1464201833859">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/test/tmp.js" timestamp="1464466364626">
         <mark key="[" line="0" column="63" />
@@ -85,6 +49,11 @@
       <file name="$USER_HOME$/Documents/project/github/owl/.gitignore" timestamp="1464417640658">
         <mark key="[" line="39" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/app/package.json" timestamp="1464696257325">
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/index.html" timestamp="1464663426807">
         <mark key="[" line="5" column="67" />
       </file>
@@ -98,32 +67,14 @@
         <mark key="^" line="34" column="27" />
         <mark key="." line="34" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/colorful/index.html" timestamp="1463813627691">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/util/actionTypes.js" timestamp="1464201730446">
         <mark key="[" line="14" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/ToyCodeFactory/table/flex.html" timestamp="1464314001461">
-        <mark key="[" line="115" column="68" />
-        <mark key="]" line="115" column="68" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="115" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlList.js" timestamp="1464314880170">
         <mark key="[" line="4" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_icon.scss" timestamp="1464247090246">
         <mark key="[" line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlFilter.js" timestamp="1464173353418">
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="32" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/wap/controller/share.js" timestamp="1464340504809">
         <mark key="[" line="200" column="12" />
@@ -151,6 +102,11 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/app.js" timestamp="1464503796481">
         <mark key="[" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/searchbar.js" timestamp="1464505326961">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/project/heroku/owl-download-sunnylost/.env" timestamp="1464529893122">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="28" />
@@ -161,74 +117,20 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/lib/courier.js" timestamp="1464233748570">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/icon.css" timestamp="1464247030857">
-        <mark key="[" line="69" column="18" />
-        <mark key="]" line="69" column="16" />
-        <mark key="." line="69" column="16" />
-        <mark key="^" line="69" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/mine/proxy/test.js" timestamp="1464157623005">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/operationbar.js" timestamp="1463830625752">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/reducers/command.js" timestamp="1464235639212">
         <mark key="[" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/containers/detailArea.js" timestamp="1464503984871" />
       <file name="$USER_HOME$/Documents/project/github/owl/src/reducers/urls.js" timestamp="1464506746733" />
-      <file name="$USER_HOME$/Documents/project/github/owl/src/lib/sharingan.js" timestamp="1464196755515">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/project/github/ToyCodeFactory/proxy/index.js" timestamp="1464536043032">
         <mark key="[" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/wap/views/head_simple.html" timestamp="1464601535851" />
-      <file name="$USER_HOME$/Documents/project/github/ToyCodeFactory/base64/index.js" timestamp="1463632385410">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/app/banner.js" timestamp="1464602833561" />
-      <file name="$USER_HOME$/Documents/project/mine/web/3.html" timestamp="1463562178011">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="32" column="22" />
-        <mark key="." line="32" column="22" />
-        <mark key="^" line="32" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/domainList.js" timestamp="1464503470348">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/project/heroku/owl-download-sunnylost/app.json" timestamp="1464525132779" />
       <file name="$USER_HOME$/Documents/project/github/owl/index.js" timestamp="1464490426083" />
       <file name="$USER_HOME$/Documents/project/mine/mail.js" timestamp="1464582507972">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlItem.js" timestamp="1464314636378">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="51" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/util/const.js" timestamp="1464168835861">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-        <mark key="." line="19" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464691268634">
         <mark key="[" line="97" column="11" />
@@ -239,7 +141,7 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/console.js" timestamp="1464236642907">
         <mark key="[" line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/package.json" timestamp="1464417916363">
+      <file name="$USER_HOME$/Documents/project/github/owl/package.json" timestamp="1464696240905">
         <mark key="[" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/project/heroku/owl-download-sunnylost/node_modules/octocat/lib/index.js" timestamp="1464525741890">
