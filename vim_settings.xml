@@ -71,12 +71,12 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464677605624">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="26" column="22" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="26" column="22" />
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464681110562">
+        <mark key="'" line="92" column="26" />
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/zepto/touch.js" timestamp="1464602853473" />
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464491198719">
@@ -276,10 +276,11 @@
       <jump line="12" column="24" filename="$USER_HOME$/Documents/project/github/owl/src/components/urlList.js" />
       <jump line="82" column="27" filename="$USER_HOME$/Documents/project/github/owl/src/actions/index.js" />
       <jump line="61" column="0" filename="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" />
+      <jump line="92" column="26" filename="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
+        <text encoding="base64">CiAgICB9</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
@@ -288,32 +289,32 @@
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
+        <text encoding="base64">CiAgICB9</text>
       </register>
       <register name="2" type="4">
-        <text>bodyElement</text>
+        <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
       </register>
       <register name="3" type="4">
+        <text>bodyElement</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">IHByb2Nlc3MuYXJndlsgMiBdLnN1YnN0cmluZyggMiApIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyggTykK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4vanNidWlsZC9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>,
                 len       = cols.lengt</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9IiI+PC9kaXY+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sdW1ucyAgICAgICAgICA6IDU7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9IiI+PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
