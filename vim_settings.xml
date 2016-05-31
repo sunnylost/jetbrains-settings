@@ -73,12 +73,12 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464665215810">
+      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1464669459308">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="75" column="35" />
-        <mark key="]" line="75" column="35" />
-        <mark key="^" line="75" column="35" />
-        <mark key="." line="75" column="35" />
+        <mark key="[" line="238" column="32" />
+        <mark key="]" line="238" column="32" />
+        <mark key="^" line="238" column="32" />
+        <mark key="." line="238" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/zepto/touch.js" timestamp="1464602853473" />
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/index.scss" timestamp="1464491198719">
@@ -136,11 +136,11 @@
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_base.scss" timestamp="1464491983269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_detail.scss" timestamp="1464597003479">
-        <mark key="[" line="164" column="6" />
-        <mark key="]" line="168" column="17" />
-        <mark key="^" line="168" column="17" />
-        <mark key="." line="168" column="17" />
+      <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_detail.scss" timestamp="1464668915885">
+        <mark key="[" line="80" column="11" />
+        <mark key="]" line="166" column="17" />
+        <mark key="^" line="166" column="17" />
+        <mark key="." line="166" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/assets/style/_header.scss" timestamp="1464246612446">
         <mark key="[" line="0" column="0" />
@@ -159,6 +159,7 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/www/controller/shop.js" timestamp="1464667732247" />
       <file name="$USER_HOME$/Documents/project/github/owl/src/lib/courier.js" timestamp="1464233748570">
         <mark key="[" line="0" column="26" />
       </file>
