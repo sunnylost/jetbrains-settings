@@ -13,7 +13,7 @@
       <file name="$USER_HOME$/Documents/project/github/owl/test/tmp.js" timestamp="1464705892004">
         <mark key="[" line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_template_meilishuoh5template/schema.json" timestamp="1464852208108">
+      <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_template_meilishuoh5template/schema.json" timestamp="1464859218036">
         <mark key="[" line="7" column="99" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/page/venus/details.js" timestamp="1464760153164">
@@ -26,7 +26,7 @@
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/circle/component/waterfallOptimise.js" timestamp="1464854195819" />
       <file name="$USER_HOME$/Documents/work/master/apps/www/controller/search.js" timestamp="1464834441929" />
       <file name="$USER_HOME$/Documents/work/master/apps/im/views/frame/lang.conf" timestamp="1464847833662" />
-      <file name="$USER_HOME$/Documents/work/cube-local-project/bundle/config.js" timestamp="1464854162129">
+      <file name="$USER_HOME$/Documents/work/cube-local-project/bundle/config.js" timestamp="1464858997835">
         <mark key="[" line="26" column="91" />
         <mark key="]" line="26" column="91" />
         <mark key="^" line="26" column="91" />
@@ -38,24 +38,25 @@
         <mark key="[" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/page/doota/sale.js" timestamp="1464852417641" />
-      <file name="/Dummy.txt" timestamp="1464852212703">
+      <file name="/Dummy.txt" timestamp="1464859013910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/ToyCodeFactory/proxy/index.js" timestamp="1464536043032">
         <mark key="[" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/app/openInIframe.js" timestamp="1464847810385" />
-      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfallOptimise.js" timestamp="1464853444436">
-        <mark key="[" line="80" column="34" />
-        <mark key="]" line="67" column="16" />
-        <mark key="^" line="67" column="16" />
-        <mark key="." line="67" column="16" />
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfallOptimise.js" timestamp="1464857965730">
+        <mark key="[" line="160" column="25" />
+        <mark key="]" line="57" column="17" />
+        <mark key="^" line="57" column="17" />
+        <mark key="." line="57" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464854416086">
-        <mark key="[" line="553" column="15" />
-        <mark key="]" line="501" column="56" />
-        <mark key="^" line="501" column="56" />
-        <mark key="." line="501" column="56" />
+      <file name="$USER_HOME$/Documents/work/master/apps/www/controller/aj.js" timestamp="1464859509010" />
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464858444179">
+        <mark key="[" line="281" column="60" />
+        <mark key="]" line="369" column="65" />
+        <mark key="^" line="369" column="65" />
+        <mark key="." line="369" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/owl/package.json" timestamp="1464696240905">
         <mark key="[" line="10" column="33" />
@@ -86,40 +87,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>MAX_CHECK_TIMES</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>MAX_CHECK_TIMES</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
+        <text>MAX_CHECK_TIMES</text>
+      </register>
+      <register name="2" type="4">
         <text>0</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW5jb2RlU3RhdHVzVGV4dDogIXRoaXMuc3RhdGUuaXNRdWVyeUVuY29kZSA/IEVOQ09ERV9URVhUIDogRU5DT0RFX1RFWFQK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>bodyElement</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHByb2Nlc3MuYXJndlsgMiBdLnN1YnN0cmluZyggMiApIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyggTykK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4vanNidWlsZC9pbmRleC5qcyI+PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
