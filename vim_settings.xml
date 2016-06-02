@@ -15,11 +15,11 @@
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/search/baobei.html" timestamp="1464834366112" />
       <file name="$USER_HOME$/Documents/work/cube-local-project/bundle/template_map.json" timestamp="1464837885684" />
       <file name="$USER_HOME$/Documents/work/master/apps/www/controller/search.js" timestamp="1464834441929" />
-      <file name="$USER_HOME$/Documents/work/cube-local-project/bundle/config.js" timestamp="1464838280643">
+      <file name="$USER_HOME$/Documents/work/cube-local-project/bundle/config.js" timestamp="1464839704684">
         <mark key="[" line="104" column="40" />
-        <mark key="]" line="105" column="8" />
-        <mark key="^" line="105" column="8" />
-        <mark key="." line="105" column="8" />
+        <mark key="]" line="99" column="46" />
+        <mark key="^" line="99" column="46" />
+        <mark key="." line="99" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/project/heroku/owl-download-sunnylost/.env" timestamp="1464529893122">
         <mark key="[" line="0" column="28" />
