@@ -59,13 +59,6 @@
         <mark key="[" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/www/controller/share.js" timestamp="1464848561746" />
-      <file name="$USER_HOME$/Documents/project/github/owl/src/server/index.js" timestamp="1464762613931">
-        <mark key="s" line="50" column="37" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/Documents/project/mine/node/stream.js" />
