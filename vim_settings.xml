@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_goods_worthbuygoods/index.js" timestamp="1464852087095" />
       <file name="$USER_HOME$/Documents/project/heroku/owl-download-sunnylost/bin/web.js" timestamp="1464530221387">
         <mark key="[" line="22" column="38" />
       </file>
@@ -24,9 +23,10 @@
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/search/baobei.html" timestamp="1464834366112" />
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/circle/component/waterfall.js" timestamp="1464852128823" />
       <file name="$USER_HOME$/Documents/work/master/apps/www/views/doota/sale_wide.html" timestamp="1464851938560" />
+      <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/circle/component/waterfallOptimise.js" timestamp="1464854195819" />
       <file name="$USER_HOME$/Documents/work/master/apps/www/controller/search.js" timestamp="1464834441929" />
       <file name="$USER_HOME$/Documents/work/master/apps/im/views/frame/lang.conf" timestamp="1464847833662" />
-      <file name="$USER_HOME$/Documents/work/cube-local-project/bundle/config.js" timestamp="1464852178411">
+      <file name="$USER_HOME$/Documents/work/cube-local-project/bundle/config.js" timestamp="1464854162129">
         <mark key="[" line="26" column="91" />
         <mark key="]" line="26" column="91" />
         <mark key="^" line="26" column="91" />
@@ -45,13 +45,13 @@
         <mark key="[" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/app/openInIframe.js" timestamp="1464847810385" />
-      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfallOptimise.js" timestamp="1464846498139">
-        <mark key="[" line="0" column="29" />
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfallOptimise.js" timestamp="1464853444436">
+        <mark key="[" line="80" column="34" />
         <mark key="]" line="67" column="16" />
         <mark key="^" line="67" column="16" />
         <mark key="." line="67" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464852068371">
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464854416086">
         <mark key="[" line="553" column="15" />
         <mark key="]" line="501" column="56" />
         <mark key="^" line="501" column="56" />
