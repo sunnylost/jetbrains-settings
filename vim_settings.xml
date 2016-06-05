@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/urlFilter.js" timestamp="1465031294488" />
       <file name="$USER_HOME$/Documents/project/github/owl/src/containers/urlArea.js" timestamp="1465029438980" />
       <file name="$USER_HOME$/Documents/work/master/apps/wap/views/wx_new/nav.html" timestamp="1465035709825" />
+      <file name="$USER_HOME$/Documents/work/cube-local-project/bundle/config.js" timestamp="1464858997835">
+        <mark key="[" line="26" column="91" />
+        <mark key="]" line="26" column="91" />
+        <mark key="^" line="26" column="91" />
+        <mark key="." line="26" column="91" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/components/searchbar.js" timestamp="1465029659847" />
       <file name="$USER_HOME$/Documents/work/master/nest/jserver/jserver.js" timestamp="1465031954317" />
       <file name="$USER_HOME$/Documents/project/heroku/owl-download-sunnylost/lib/versions.js" timestamp="1464531249331">
@@ -24,9 +30,10 @@
       <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_template_meilishuoh5template/index.js" timestamp="1464846114259">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/nori/.babelrc" timestamp="1465051110673">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/project/github/nori/.babelrc" timestamp="1465086893080">
+        <mark key="[" line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/project/github/nori/src/Nori.js" timestamp="1465087148804" />
       <file name="$USER_HOME$/Documents/project/github/ToyCodeFactory/proxy/index.js" timestamp="1464536043032">
         <mark key="[" line="23" column="20" />
       </file>
@@ -43,25 +50,54 @@
         <mark key="^" line="35" column="44" />
         <mark key="." line="35" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/owl/src/components/detailTable.js" timestamp="1465029122076">
-        <mark key="[" line="241" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/work/master/apps/wap/controller/aj/wx.js" timestamp="1465027918870" />
       <file name="$USER_HOME$/Documents/work/cube-local-project/src/h5_common_template_meilishuoh5template/schema.json" timestamp="1464859218036">
         <mark key="[" line="7" column="99" />
       </file>
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfallOptimise.js" timestamp="1464862482720">
+        <mark key="[" line="160" column="25" />
+        <mark key="]" line="57" column="17" />
+        <mark key="^" line="57" column="17" />
+        <mark key="." line="57" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/work/master/nest/server/config/api.json" timestamp="1464925356221">
         <mark key="[" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/page/wx_new/follow.js" timestamp="1464925108729">
+        <mark key="[" line="120" column="3" />
+        <mark key="]" line="120" column="3" />
+        <mark key="^" line="120" column="3" />
+        <mark key="." line="120" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/src/containers/toolbar.js" timestamp="1465031315745" />
+      <file name="$USER_HOME$/Documents/project/mine/waterfall/waterfall.js" timestamp="1464858444179">
+        <mark key="[" line="281" column="60" />
+        <mark key="]" line="369" column="65" />
+        <mark key="^" line="369" column="65" />
+        <mark key="." line="369" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/project/github/nori/demo/simple/index.html" timestamp="1465086331020">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/project/github/owl/package.json" timestamp="1464696240905">
         <mark key="[" line="10" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/wap/controller/wx/user.js" timestamp="1464925134063">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/project/github/zepto-sunnylost/src/ajax.js" timestamp="1464969741748">
         <mark key="[" line="102" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/project/github/nori/package.json" timestamp="1465051027848">
-        <mark key="[" line="8" column="9" />
+      <file name="$USER_HOME$/Documents/project/github/nori/package.json" timestamp="1465086859218">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/wap/zepto.js" timestamp="1464926002527">
         <mark key="[" line="1300" column="44" />
@@ -94,40 +130,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>MAX_CHECK_TIMES</text>
+        <text>a</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5jb2RlU3RhdHVzVGV4dDogIXRoaXMuc3RhdGUuaXNRdWVyeUVuY29kZSA/IEVOQ09ERV9URVhUIDogRU5DT0RFX1RFWFQK</text>
+      <register name="4" type="4">
+        <text>MAX_CHECK_TIMES</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICB9</text>
+        <text>0</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW5jb2RlU3RhdHVzVGV4dDogIXRoaXMuc3RhdGUuaXNRdWVyeUVuY29kZSA/IEVOQ09ERV9URVhUIDogRU5DT0RFX1RFWFQK</text>
       </register>
       <register name="7" type="4">
-        <text>bodyElement</text>
+        <text encoding="base64">CiAgICB9</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHByb2Nlc3MuYXJndlsgMiBdLnN1YnN0cmluZyggMiApIA==</text>
+        <text encoding="base64">dmFsICYmICggdmFsID0gdmFsLnRyaW0oKSk=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyggTykK</text>
+      <register name="9" type="4">
+        <text>bodyElement</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
