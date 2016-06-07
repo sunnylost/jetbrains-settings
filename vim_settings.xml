@@ -1,19 +1,18 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/project/github/nori/demo/simple/index.js" timestamp="1465090841527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mine/vue-project/node_modules/vue-loader/lib/loader.js" timestamp="1465303289662" />
       <file name="$USER_HOME$/Documents/project/heroku/owl-download-sunnylost/bin/web.js" timestamp="1464530221387">
         <mark key="[" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/project/mine/vue-project/node_modules/vue/dist/vue.common.js" timestamp="1465304124671" />
       <file name="$USER_HOME$/Documents/project/github/nori/DOC.md" timestamp="1465111165986">
         <mark key="[" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/work/master/apps/static/script-ss/circle/component/waterfall.js" timestamp="1465306587621" />
       <file name="$USER_HOME$/Documents/project/github/nori/src/component/base.js" timestamp="1465090712718">
         <mark key="[" line="0" column="0" />
       </file>
