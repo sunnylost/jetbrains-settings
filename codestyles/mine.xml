@@ -47,6 +47,7 @@
   <codeStyleSettings language="JavaScript">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="INDENT_CASE_FROM_SWITCH" value="false" />
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
