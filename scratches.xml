@@ -11,9 +11,11 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.es6" value="ECMAScript 6" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" value="JavaScript 1.5" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.es6" value="ECMAScript 6" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.html" value="HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.es6" value="ECMAScript 6" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" value="JavaScript 1.5" />
   </component>
