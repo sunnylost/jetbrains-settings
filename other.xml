@@ -7,22 +7,22 @@
             <id />
           </State>
           <State>
-            <id>Bitwise operation issuesJavaScript</id>
+            <id>BashSupport</id>
           </State>
           <State>
-            <id>CSS</id>
+            <id>Code quality toolsJavaScript</id>
           </State>
           <State>
             <id>Code style issuesJavaScript</id>
           </State>
           <State>
-            <id>Control flow issuesJavaScript</id>
+            <id>CoffeeScript</id>
           </State>
           <State>
-            <id>Data flow issuesJavaScript</id>
+            <id>DOM issuesJavaScript</id>
           </State>
           <State>
-            <id>Error handlingJavaScript</id>
+            <id>GeneralCoffeeScript</id>
           </State>
           <State>
             <id>GeneralJavaScript</id>
@@ -31,23 +31,30 @@
             <id>HTML</id>
           </State>
           <State>
-            <id>Invalid elementsCSS</id>
-          </State>
-          <State>
             <id>JavaScript</id>
           </State>
           <State>
-            <id>JavaScript validity issuesJavaScript</id>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
           </State>
           <State>
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
-        </expanded-state>
-        <selected-state>
           <State>
-            <id>BashSupport</id>
+            <id>SQL</id>
           </State>
-        </selected-state>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
       </profile-state>
     </entry>
   </component>
