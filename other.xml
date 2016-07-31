@@ -125,6 +125,9 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.tnvm/versions/alinode/v1.5.7/bin/node">
+      <version-cache version="4.4.7" last-modified="1467252146000" />
+    </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="4.4.6" last-modified="1469002337000" />
       <npm-package value="/usr/local/lib/node_modules/npm" />
