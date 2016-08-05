@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="project" />
-    <option name="defaultScopeName" value="project" />
+    <option name="customScope" value="work" />
+    <option name="defaultScopeName" value="work" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="project" />
+    <option name="SEARCH_SCOPE" value="work" />
   </component>
 </application>
