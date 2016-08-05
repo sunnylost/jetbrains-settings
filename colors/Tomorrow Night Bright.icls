@@ -1260,9 +1260,6 @@
         <option name="BACKGROUND" value="424242" />
       </value>
     </option>
-    <option name="MESSAGE_ARGUMENT">
-      <value />
-    </option>
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7aa6da" />
@@ -1313,9 +1310,6 @@
       <value>
         <option name="FOREGROUND" value="e78c45" />
       </value>
-    </option>
-    <option name="OC.PROPERTY">
-      <value />
     </option>
     <option name="OC.SELFSUPERTHIS">
       <value>
