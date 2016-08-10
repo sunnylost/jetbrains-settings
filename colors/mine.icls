@@ -3,7 +3,7 @@
     <property name="created">2016-08-10T10:30:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2016-08-10T10:30:21</property>
+    <property name="modified">2016-08-10T23:47:19</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -264,6 +264,12 @@
       <value>
         <option name="FOREGROUND" value="ff" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="f8ff2a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
