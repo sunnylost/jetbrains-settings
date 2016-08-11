@@ -3,7 +3,7 @@
     <property name="created">2016-08-10T10:30:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2016-08-10T23:47:19</property>
+    <property name="modified">2016-08-11T16:29:13</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -2140,6 +2140,18 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_ATX_MARKER">
+      <value>
+        <option name="FOREGROUND" value="2f97f9" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HEADER_SETEXT_MARKER">
+      <value>
+        <option name="FOREGROUND" value="356f9c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -3500,6 +3512,18 @@
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="76418f" />
         <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HRULE">
+      <value>
+        <option name="FOREGROUND" value="2f97f9" />
+        <option name="BACKGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HTML_BLOCK">
+      <value>
+        <option name="BACKGROUND" value="f75c4c" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HTML_ENTITY_ABBREVIATED_TEXT">
@@ -12892,6 +12916,29 @@
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_WIKI_LINK_TEXT">
       <value>
         <option name="BACKGROUND" value="dff6e5" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TASK_ITEM_MARKER">
+      <value>
+        <option name="FOREGROUND" value="2f97f9" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.VERBATIM">
+      <value>
+        <option name="BACKGROUND" value="6dd1ec" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_REF">
+      <value>
+        <option name="FOREGROUND" value="9cba40" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_TEXT">
+      <value>
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
