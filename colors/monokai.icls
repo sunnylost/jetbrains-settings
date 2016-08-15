@@ -1,6 +1,7 @@
 <scheme name="Monokai-Sublime" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
