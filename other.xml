@@ -129,7 +129,7 @@
       <version-cache version="4.4.7" last-modified="1467252146000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="4.4.6" last-modified="1470469830000" />
+      <version-cache version="4.5.0" last-modified="1471371531000" />
       <npm-package value="/usr/local/lib/node_modules/npm" />
     </local-interpreter>
   </component>
