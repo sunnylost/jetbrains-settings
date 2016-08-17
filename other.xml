@@ -170,6 +170,9 @@
       </map>
     </option>
   </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="" />
+  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
