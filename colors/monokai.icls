@@ -62,7 +62,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffc8c8" />
+        <option name="BACKGROUND" value="373737" />
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
@@ -259,6 +259,12 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
+      <value>
+        <option name="FOREGROUND" value="172237" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="fffefa" />
@@ -337,8 +343,8 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="ff" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="fffba1" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
