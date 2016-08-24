@@ -5,6 +5,7 @@
       <mapping ext="tmpl" type="HTML" />
       <mapping ext="est" type="JavaScript" />
       <mapping pattern="123" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="test123" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="lsn" type="PLAIN_TEXT" />
