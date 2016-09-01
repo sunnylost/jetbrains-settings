@@ -1,16 +1,15 @@
 <scheme name="mine-2016" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Fira Mono" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Fira Mono" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3b3c32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_MODIFIED" value="2fbeff" />
-    <option name="GUTTER_BACKGROUND" value="151e32" />
+    <option name="GUTTER_BACKGROUND" value="252621" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ff0000" />
     <option name="HTML_TAG_TREE_LEVEL1" value="ffff00" />
     <option name="HTML_TAG_TREE_LEVEL2" value="ff00" />
@@ -450,6 +449,7 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="f72671" />
+        <option name="BACKGROUND" value="151e32" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>

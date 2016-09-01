@@ -29,27 +29,10 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="JAVA">
-    <option name="SPACE_WITHIN_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_TRY_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_SYNCHRONIZED_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_CAST_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_BRACKETS" value="true" />
-    <option name="SPACE_WITHIN_BRACES" value="true" />
-    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
-    <option name="SPACE_WITHIN_EMPTY_ARRAY_INITIALIZER_BRACES" value="true" />
-    <option name="SPACE_WITHIN_ANNOTATION_PARENTHESES" value="true" />
-  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="INDENT_CASE_FROM_SWITCH" value="false" />
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
