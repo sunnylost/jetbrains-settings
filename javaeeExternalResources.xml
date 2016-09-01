@@ -1,5 +1,5 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://plugins.intellij.net/revu/ns/revu_1_0.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/Users/a2014/Library/Application%20Support/WebStorm9/revu.jar!/org/sylfra/idea/plugins/revu/resources/schemas/revu_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/revu/ns/revu_1_0.xsd" location="$APPLICATION_HOME_DIR$/bin/file:/Users/sunnylost/Library/Application%20Support/PhpStorm2016.2/revu.jar!/org/sylfra/idea/plugins/revu/resources/schemas/revu_1_0.xsd" />
   </component>
 </application>

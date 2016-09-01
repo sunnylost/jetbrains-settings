@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="FONT_FACE" value="Fira Code" />
     <option name="FONT_SIZE" value="14" />
+    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />

@@ -22,6 +22,9 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="SvnDiffSettings">
@@ -47,6 +50,9 @@
         <PlaceSettings />
       </entry>
       <entry key="Merge">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>

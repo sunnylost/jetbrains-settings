@@ -1,0 +1,11 @@
+<application>
+  <component name="org.codebrewer.idea.dilbert.DilbertDailyStripPlugin">
+    <setting name="disclaimerAcknowledged" value="true" />
+    <downloads>
+      <setting name="fetchStripAutomatically" value="true" />
+      <setting name="localDownloadTime" value="900" />
+      <setting name="maxFetchAttempts" value="5" />
+      <setting name="fetchInterval" value="10" />
+    </downloads>
+  </component>
+</application>
